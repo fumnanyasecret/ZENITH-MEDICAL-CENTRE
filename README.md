@@ -46,6 +46,7 @@ Tools used and their purposes
 2️⃣Power Point - To effectively communicate ideas, support presentation, share and organise the information. 
 
 
+
 ⚠️ Disclaimer  
 This project is for educational and portfolio demonstration only. Data is simulated and does not represent any real organisation. 
 
