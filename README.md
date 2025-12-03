@@ -43,10 +43,10 @@ Tools used and their purposes
 
 1️⃣ BACCM Framework - a model used by BA to clear think, consistently and holisticaly about Zenith Medical centre patient appointment mangement system change intiative.
 
-2️⃣Power Point - To effectively communicate ideas, support presentation, share and organise the information.    
+2️⃣Power Point - To effectively communicate ideas, support presentation, share and organise the information. 
 
-⚠️ Disclaimer
 
+⚠️ Disclaimer  
 This project is for educational and portfolio demonstration only. Data is simulated and does not represent any real organisation. 
 
 ---
