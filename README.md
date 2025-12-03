@@ -17,10 +17,10 @@ Zenith Medical Centre is a **well-established private healthcare facility** curr
 ---
 
 This project applies **BACCM framework** presented in **Power point** to reveal:  
-- identify business need 💰  
-- Identify the stakeholders  👱‍♀️
-- What are possible solution(s)that will solve the need(s)  🧩
-- What is the change that is to be effected. 🧨
+- identification of business need 💰  
+- Identification of the stakeholders  👱‍♀️
+- What possible solution(s)that will solve their need(s)  🧩
+- What change that is to be effected. 🧨
 
 
 ---
