@@ -37,10 +37,10 @@ This project applies **BACCM framework** presented in **Power point** to reveal:
 <img width="837" height="443" alt="image" src="https://github.com/user-attachments/assets/95cba1c5-2bfc-4a01-b9a4-668415048d97" />  
 
 ---
-### 🧰 Tools & Technology
-Tools used and their purposes
-1️⃣ BACCM Framework - a model used by BA to clear think, consistently and holisticaly about Zenith Medical centre patient appointment mangement system change intiative.
-2️⃣Power Point - To effectively communicate ideas, support presentation, share and organise the information.  
+### 🧰 Tools & Technology  
+Tools used and their purposes  
+1️⃣ BACCM Framework - a model used by BA to clear think, consistently and holisticaly about Zenith Medical centre patient appointment mangement system change intiative.  
+2️⃣Power Point - To effectively communicate ideas, support presentation, share and organise the information.    
 
 ⚠️ Disclaimer
 
